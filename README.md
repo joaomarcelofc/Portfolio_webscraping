@@ -1,4 +1,8 @@
+<a href="https://scrapy.org/"><img src="https://bit.ly/3E8XQZ3" width="250" alt="Scrapy"/></a>
+<a href="https://selenium.dev"><img src="https://bit.ly/3UcZWNe" width="260" alt="Selenium"/></a>
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"><img src="https://bit.ly/3zRLi5Z" width="250" alt="Selenium"/></a>
 
+   
 # João Marcelo
 <sub>*Contador pós-graduando em Big Data & Data Science</sub>
 
