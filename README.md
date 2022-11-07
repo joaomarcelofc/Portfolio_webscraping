@@ -19,7 +19,7 @@ Para nossos projetos, vamos utilizar as três bibliotecas mais populares usadas 
 
 ## Projetos:
 
-* **Web scraping com Scrapy: Ranking da Forgbes:** https://bit.ly/3EdPzU1
+* **Web scraping com Scrapy: Ranking da Forbes:** https://bit.ly/3EdPzU1
 
 * **Web scraping com Scrapy: Ranking de games do Metacritic:** https://bit.ly/3UwoOjr
 
