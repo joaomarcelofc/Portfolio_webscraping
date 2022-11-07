@@ -19,7 +19,15 @@ Para nossos projetos, vamos utilizar as três bibliotecas mais populares usadas 
 
 ## Projetos:
 
+* **Web scraping com Scrapy: Ranking da Forgbes:** https://bit.ly/3EdPzU1
 
+* **Web scraping com Scrapy: Ranking de games do Metacritic:** https://bit.ly/3UwoOjr
+
+* **Web scraping com Scrapy: Ranking de filmes do Imdb:** https://bit.ly/3Ec0hKI
+
+* **Web scraping com Selenium: Extração de dados do Linkedin:** https://bit.ly/3Uyg0ZN
+
+* **Web scraping com Beautiful Soup: Pesquisa salarial do Glassdoor:** https://bit.ly/3FSALeH
 ----
 
 
