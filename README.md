@@ -27,7 +27,7 @@ Para nossos projetos, vamos utilizar as três bibliotecas mais populares usadas 
 
 * **Web scraping com Selenium: Extração de dados do Linkedin:** https://bit.ly/3Uyg0ZN
 
-* **Web scraping com Beautiful Soup: Pesquisa salarial do Glassdoor:** https://bit.ly/3FSALeH
+* **Web scraping com Beautiful Soup: Pesquisa salarial do Glassdoor:** https://bit.ly/3FUZKxJ
 ----
 
 
